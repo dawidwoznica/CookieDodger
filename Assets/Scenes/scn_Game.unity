@@ -1771,7 +1771,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 1990102a2d777cf4db7758cbd9aea813, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 82155981949478262, guid: 689100604aa063e43b1941acef6e35b3,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 689100604aa063e43b1941acef6e35b3, type: 3}
 --- !u!224 &1976054187 stripped
